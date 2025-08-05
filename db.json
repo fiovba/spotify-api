@@ -1,203 +1,312 @@
 {
-  "users": [
-  ],
-
+  "users": [],
   "songs": [
-   {
-  "id": 1,
-  "title": "Pardon Me (Lil Yachty feat. Future)",
-  "artist": "Lil Yachty, Future, Mike WiLL",
-  "cover": "https://i1.sndcdn.com/artworks-zJyo0NiIpJLq-0-t500x500.jpg",
-  "src": "https://res.cloudinary.com/dsagrq2dg/video/upload/v1752784998/Lil_Yachty_-_Pardon_Me_ft._Future_Mike_WiLL_Made-It_ffyq3n.mp3",
-  "duration": "2:58",
-  "genre": "Hip-Hop,Rap",
-  "lyrics": "Pardon me, I been actin' lil' poor\nPardon me, I been still actin' poor\nPardon me, I been actin' lil' poor\nPardon me, I been still actin' poor (EarDrummers)\nPardon me, I been still actin' poor\nPardon me, mix the Act' in the store (Marzeratti)\nPardon me, I been still actin' poor\nPardon me, sippin' lean at the store (Mike WiLL, Mike WiLL)\nPardon me, I been still actin' poor\nPardon me, sippin' stain at the store\nCarbon sittin' on the seat and the floor\nCarbon sittin' on the seat and the floor\nBarkin', I put that knife on your throat\nTorch it, I'ma set fire to that ho\nWalk in designer, head down to the toe\nName the strip club, I throw it\n\n[Post-Chorus: Future]\nHittin' that throat, she a GOAT\nSmashin' that throat, she a GOAT\nFeelin' like an igloo now\nGoons ready to hit you now\n\n[Verse 1: Lil Yachty]\n(Boat)\nBring the big F out the house\nLet them fuck niggas know who really get foul\nFour hundred thousand right now (Right now)\nFour hundred thousand on me right now (Yeah)\nPull up on the scene, tryna hit it right now\nI wrap the Bentley in snow (Yeah)\nPull up at the house, she waitin' outside, the lil' bitch is ready to go\nGot a SIG Sauer, it's brown like boot\nIt's still my brother, that nigga the truth, nigga the truth\nTwenty-five thousand for eight of my teeth\nThree thousand dollars for each every tooth\nIn too close, pull back the top, shoot out the roof (Brrt), go poof\nI'ma start puttin' these bitches on MARTA\nI'ma stop puttin' broke hoes on charters\nBrother too muddy, he been through too much\nIf he stand in the tub, he might black out the water\nI was twenty years old with six different whips\nPerfect good health, but bought ten different scripts (Woo)\nDog, it's cheaper to boot her out\nWhen niggas be flexin', nah, this ain't the same\n"
-   },
-   {
-  "id": 2,
-  "title": "Solo",
-  "artist": "Future",
-  "cover": "https://upload.wikimedia.org/wikipedia/en/8/83/HNDRXX_cover.jpg",
-  "src":  "https://res.cloudinary.com/dsagrq2dg/video/upload/v1752785423/Future_-_Solo_Official_Audio_dqrmme.mp3",
-  "duration": "4:25",
-  "genre": "Hip-Hop,Rap",
-  "lyrics": "Talk to me\n\n[Refrain]\nI don't wanna let you down, I don't wanna let you down\nI don't wanna let you down, I don't wanna let you down\n\n[Interlude]\nYou see how we living, yeah\nI'm tryna keep it simple as possible\nYou know what I do\nHa-ha\n\n[Verse 1]\nGet you Gucci on sight, yeah, Rollies on ice, yeah\nGet first class flights, yeah, ride it like a bike, yeah\nGet a brand new Wag, ayy, be quiet, don't brag, hey\nYou ain't never pump gas, hey, nigga, keep it on task, yeah\nPeelin' off, flex, hey, keep it on track, hey\nFussin' and fightin', yeah, fuckin' all night, ayy\nGotta make it count, yeah, love it when it bounce, yeah\nGirl, that's tight, yeah, you do whatever you like, yeah\nGucci on sight, yeah, Rollie on ice, yeah\nTake my advice, ayy, live a better life\n\n[Chorus]\nYou got maids right now, you got it made right now\nI won't let you down, I won't let you down\nLike 4 right now, it's like 4 right now\nLike 4 right now, it's like 4 AM right now\nWe can't be too discrete, niggas gon' know right now\nGot my name too big, everybody know right now\nI enjoyed our time, we been on the low for a while\nI been solo now, I've been going solo now\nSee upcoming rap shows\nGet tickets for your favorite artists\n\n[Verse 2]\nTwenty ounce steaks, hey, can't fit it on the plate\nJumbo shrimp, hey, straight out of the lake, hey\nSleeping on the boat, ayy, wake up, take dope, ayy\nYou don't want no smoke, nigga don't want no starch, ayy\nWe gon' put it on the hood, ayy, before we put it on God, hey\nAyy\n\n[Chorus]\nYou got maids right now, you got it made right now\nI won't let you down, I won't let you down\nLike 4 right now, it's like 4 right now\nLike 4 right now, it's like 4 AM right now\nWe can't be too discrete, niggas gon' know right now\nGot my name too big, everybody know right now\nI enjoyed our time, we been on the low for a while\nI been solo now, I've been going solo now\n\n[Bridge]\nSolo now\nE-everybody know right now\nI've been going solo now\nBands on your tags, woo, ain't got bags, woo\nI won't let you down, bet I won't let you down\nBands on your tags, woo, ain't got bags, woo\nI won't let you down, bet I won't let you down\n\n[Refrain]\nI don't wanna let you down, I don't wanna let you down\nI don't wanna let you down, I don't wanna let you down\nI don't wanna let you down, I don't wanna let you down\nI don't wanna let you down, I don't wanna let you down, no way\nI don't wanna let you down, I don't wanna let you down\nI don't wanna let you down, I don't wanna let you down"
-},
-
-{
-  "id": 3,
-  "title": "Is it a crime",
-  "artist": "Sade",
-  "cover": "https://cdn-images.dzcdn.net/images/cover/336e00b554c028d58b7c432c38581997/1900x1900-000000-80-0-0.jpg",
-  "src":  "https://res.cloudinary.com/dsagrq2dg/video/upload/v1752785814/SADE_-_IS_IT_A_CRIME_LYRICS_nirefk.mp3",
-  "duration": "6:17",
-  "genre": "Soul",
-  "lyrics": "This may come\nThis may come as some surprise\nBut I miss you\nI could see through all of your lies\nBut still I miss you\nHe takes her love, but it doesn't feel like mine\nHe tastes her kiss, her kisses are not wine, they're not mine\nHe takes, but surely she can't give what I'm feeling now\nShe takes, but surely she doesn't know how\nIs it a crime?\nIs it a crime\nThat I still want you?\nAnd I want you to want me too\nMy love is wider, wider than Victoria Lake\nMy love is taller, taller than the Empire State\nIt dives, it jumps, and it ripples like the deepest ocean\nI can't give you more than that\nSurely, you want me back\nIs it a crime?\nIs it a crime\nI still want you?\nAnd I want you to want me too\nMy love is wider than Victoria Lake\nTaller than the Empire State\nIt dives, it jumps\nI can't give you more than that\nSurely, you want me back\nIs it a crime?\nIs it a crime\nThat I still want you?\nAnd I want you to want me too\nIt dives, it jumps, and it ripples like the deepest ocean\nI can't give you more than that\nSurely, you want it back\nTell me, is it a crime?"
-},
-{
-  "id": 4,
-  "title": "Bir Beyaz Orkide",
-  "artist": "Cihan Mürtezaoğlu",
-  "cover": "https://cdn-images.dzcdn.net/images/cover/705e4cfa5f5300ecb45ff1f5a6a91752/1900x1900-000000-80-0-0.jpg",
-  "src": "https://res.cloudinary.com/dsagrq2dg/video/upload/v1752786118/Cihan_M%C3%BCrtezao%C4%9Flu_-_Bir_Beyaz_Orkide_Lyrics_qk39ls.mp33",
-  "duration": "4:01",
-  "genre": "Soul",
-  "lyrics": "Güldürmeyen, ağlatmayan\nSinsi bir ok\nÖldürmeyen\nÇaresi yok\nBu yaranın\nKimde kalır\nKabukları\nGüldürmeyen, ağlatmayan\nSinsi bir ok\nÖldürmeyen\nÇaresi yok\nBu yaranın\nKimde kalır\nKabukları\nAldın beni nefesimi\nYersiz mülksüz sahip gibi\nAsli sende\nSüreti yok\nYamacına indir beni\nŞimdi gövdemde büyüyen\nBu arsız, kimsesiz, topraksız çicek\nYüreğimde kor sürgün göğsüne\nBunu bana yapmazdın\nŞimdi gövdemde büyüyen\nBu arsız, kimsesiz, topraksız çicek\nYüreğimde kor sürgün göğsüne\nBunu bana yapmazdın"
-},
-{
-  "id": 5,
-  "title": "Sadece",
-  "artist": "Kalben",
-  "cover": "https://cdn-images.dzcdn.net/images/cover/99ca15ad2dad2a8e8a5333813a3bc358/500x500.jpg",
-  "src":  "https://res.cloudinary.com/dsagrq2dg/video/upload/v1752786569/Kalben_-_Sadece_ca72zf.mp3",
-  "duration": "2:55",
-  "genre": "Soul",
-  "lyrics": "Yatak boş, oda boş, ev boş\nDuvarlara vuran ışık, yüzümde karanlık\nYine mi sen? bayram günü gibi gelen\nKaçamadım külleri hala sıcak\nKalbimi durdurup kaybolan bir tuzak\nOluyor, her sokak\nHiçbir şey istemedim\nNe yatak, ne oda, ne de ev\nSen de bırak her şey, sadece beni sev\nDizlerimde dizlerin, boynunda ellerim\nBoğulur gibi yeniden her gece her gece\nDoğalım mı sevgilim?\nDoğalım mı sevgilim?\nDoğalım mı sevgilim?\nAzalırken, azalırken kapılar ardında\nKaçtığım zamanlar, boşvermiştim aslında\nYıkılırken kumdan kalelerim, birer birer karşında\nZırhı paslanmış bir kahraman gibiyim\nHiç bir şey istemedim\nNe yatak, ne oda, ne de ev\nSen de bırak her şeyi, sadece beni sev (sev)\nDizlerimde dizlerin, boynunda ellerim\nBoğulur gibi yeniden her gece her gece\nDoğalım mı sevgilim?\nDoğalım mı sevgilim?\nDoğalım mı sevgilim?\nHiçbir şey istemedim\nNe yatak, ne oda, ne de ev\nSen de bırak her şeyi, sadece beni sev"
-},
-{
-  "id": 6,
-  "title": "You know I'm No Good",
-  "artist": "Amy Winehouse",
-  "cover": "https://upload.wikimedia.org/wikipedia/en/b/b8/Amy_Winehouse_-_Back_To_Black.jpg",
-  "src": "https://res.cloudinary.com/dsagrq2dg/video/upload/v1752786780/Amy_Winehouse_-_You_Know_I_m_No_Good_Audio_t4cdeg.mp3",
-  "duration": "4:17",
-  "genre": "Soul",
-  "lyrics": ""
-},
-{
-  "id": 7,
-  "title": "Requiem",
-  "artist": "Mozart",
-  "cover": "https://store.deutschegrammophon.com/cdn/shop/files/Karl-Boehm-Wiener-Philharmoniker_Mozart-Requiem_Original-Source-2-Vinyl_s511818_o5777411_a499654_v12440118.3aa6d499.jpg?v=1751056765&width=3000",
-  "src":  "https://res.cloudinary.com/dsagrq2dg/video/upload/v1752787129/Mozart_-_Requiem_hjuy7y.mp3",
-  "duration": "8:53",
-  "genre": "Classic",
-  "lyrics": ""
-},
-{
-  "id": 8,
-  "title": "This Charming Man",
-  "artist": "The Smiths",
-  "cover": "https://i.discogs.com/rA3VNNzY7xV5_0WfPfDY86oLjLm0mWhwRxaQ3g-ifBE/rs:fit/g:sm/q:40/h:300/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQzMzIz/MTQtMTQ5Njg1ODU1/Ny02Nzc1LnBuZw.jpeg",
-  "src":  "https://res.cloudinary.com/dsagrq2dg/video/upload/v1752787617/This_Charming_Man_2008_Remaster_oihedq.mp3",
-  "duration": "2:42",
-  "genre": "Indie Rock",
-  "lyrics": "[Verse 1]\nPunctured bicycle on a hillside desolate\nWill nature make a man of me yet?\nWhen in this charming car\nThis charming man\nWhy pamper life's complexity\nWhen the leather runs smooth on the passenger seat?\nI would go out tonight\nBut I haven't got a stitch to wear\nThis man said, \"It's gruesome\nThat someone so handsome should care\"\n\n[Chorus]\nAh, a jumped-up pantry boy\nWho never knew his place\nHe said, \"Return the ring\"\nHe knows so much about these things\nHe knows so much about these things\n\n[Verse 2]\nI would go out tonight\nBut I haven't got a stitch to wear\nThis man said, \"It's gruesome\nThat someone so handsome should care\"\nNa, na-na, na-na, na-na\nThis charming man\nNa, na-na, na-na, na-na\nThis charming man\n\n[Chorus]\nAh, a jumped-up pantry boy\nWho never knew his place\nHe said, \"Return the ring\"\nHe knows so much about these things\nHe knows so much about these things\nHe knows so much about these things"
-},
-{
-  "id": 9,
-  "title": "Around Me (feat. Don Toliver)",
-  "artist": "Metro Boomin, Don Toliver",
-  "cover": "https://cdn-images.dzcdn.net/images/cover/862ab860ff69c30deeb5979db6e46b62/1900x1900-000000-80-0-0.jpg",
-  "src":  "https://res.cloudinary.com/dsagrq2dg/video/upload/v1752787918/Metro_Boomin_-_Around_Me_Lyrics_Ft._Don_Toliver_x7q2pm.mp3",
-  "duration": "3:11",
-  "genre": "Trap,R&B",
-  "lyrics": "Metro\nLike I know you want\nShe sit in here for hours\nEven till I'm done\nIt was all cool when it was just for fun\nToo much here on ya mental\nGotta switch up the tempo\nDaddy calling in tenfo\nShow us here what that Benz for\nI'm locked in on yo Info\nI'm bout to jump out the window\nI seen too many worlds and I\nWant you to be my girl and I\nKnow I gotta keep the drugs round me\nI Gotta keep a couple plugs around me\nI seen way too many worlds and uh\nAhhh want you to be my girl and ahhhh\nKnow I keep a couple drugs round me\nI gotta keep a couple plugs around me\n\nHow ya wanna talk when the money come in\nNiggas went bad, they going out sad, they never gonna win\nI been going like 10 for 10\nGet it on movie\nGet it on film\nGet on movie\nGet on film\nPour my cup way above the brim\nI went and got the cut with the all white trim\nI'm finna go and dunk way above the rim\nGutta nights it was hard to flip\nNiggas was lit when the hard uh hit\nI ain't think twice whenever I'd get it\nI was going shiest in the all black fitted\nI was going shiesty in all black\nI was on 10 when ya called back\nHad to think twice and ya fall back\nI hit uh mean lick and it was all racks\n\nI seen too many worlds and I\nWant you to be my girl and I\nKnow I gotta keep the drugs round me\nI gotta keep a couple plugs around me\nI seen way too many worlds and uh\nAhhh want you to be my girl and ahhhh\nKnow I keep a couple drugs round me\nI gotta keep a couple plugs around me\n\nHeroes are inspired\nEmerging only when needed\nRevealing themselves to the world in a moment\nMarked by the realization of their ultimate destiny\nWith backs against the wall\nThey ascend the winding path of their own fate\nBarely knowing the ledge\nDespite coping with living their whole life as two hands"
-}
-,
-{
-  "id": 10,
-  "title": "Sənə də Qalmaz",
-  "artist": "Rəşid Behbudov",
-  "cover": "https://cdn-images.dzcdn.net/images/cover/862ab860ff69c30deeb5979db6e46b62/1900x1900-000000-80-0-0.jpg",
-  "src":  "https://res.cloudinary.com/dsagrq2dg/video/upload/v1752788317/Sene_de_qalmaz_-_Rashid_Behbudov_z6io1b.mp3",
-  "duration": "4:47",
-  "genre": "Retro Azərbaycan",
-  "lyrics": "Könlüm sənin əsirin, \nQəlbim sənindir, yar, \nQəlbim sənindir. \nİnsaf elə, xoş sözlə \nMəni gəl dindir, yar, \nMəni gəl dindir.\n\nSöylə, nədir bu ədalar, \nBu işvə, bu naz? \nGedər bir gün bu gözəllik, \nSənə də qalmaz.\n\nYalqızam, yalqız, \nYalqızam, yalqız! \nGəl, məni möhnətə, oda \nSalan vəfasız.\n\nSöylə, nədir bu ədalar, \nBu işvə, bu naz? \nVallah, ay qız, bu gözəllik \nSənə də qalmaz.\n\nDağlar başı dumandır, \nAman, Allah, yar, \nYenə dumandır. \nAyrılığın ölümdən \nMənə yamandır, yar, \nMənə yamandır.\n\nSöylə, nədir bu ədalar, \nBu işvə, bu naz? \nVallah, ay qız, bu gözəllik \nSənə də qalmaz."
-}
-,
-{
-  "id": 11,
-  "title": "cardigan",
-  "artist": "Taylor Swift",
-  "cover": "https://i.discogs.com/u9wVKXG26ZZ55Gc2hnUBDxaL8cpo2OohiFLR99mYdRA/rs:fit/g:sm/q:40/h:300/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NTMz/MjAxLTE2MDgzMjY2/MjMtNjA0My5qcGVn.jpeg",
-  "src":  "https://res.cloudinary.com/dsagrq2dg/video/upload/v1752789033/Taylor_Swift_-_cardigan_obh9kr.mp3",
-  "duration": "3:59",
-  "genre": "Indie Folk, Alternative",
-  "lyrics": "Vintage tee, brand new phone\nHigh heels on cobblestones\nWhen you are young, they assume you know nothing\nSequin smile, black lipstick\nSensual politics\nWhen you are young, they assume you know nothing\nBut I knew you\nDancin' in your Levi's\nDrunk under a streetlight\nI knew you\nHand under my sweatshirt\nBaby, kiss it better\nAnd when I felt like I was an old cardigan\nUnder someone's bed\nYou put me on and said I was your favorite\nA friend to all is a friend to none\nChase two girls, lose the one\nWhen you are young, they assume you know nothing\nBut I knew you\nPlayin' hide-and-seek and\nGivin' me your weekends\nI knew you\nYour heartbeat on the High Line\nOnce in twenty lifetimes\nAnd when I felt like I was an old cardigan\nUnder someone's bed\nYou put me on and said I was your favorite\nTo kiss in cars and downtown bars\nWas all we needed\nYou drew stars around my scars\nBut now I'm bleedin'\n'Cause I knew you\nSteppin' on the last train\nMarked me like a bloodstain\nI knew you\nTried to change the ending\nPeter losing Wendy\nI knew you\nLeavin' like a father\nRunning like water\nAnd when you are young, they assume you know nothing\nBut I knew you'd linger like a tattoo kiss\nI knew you'd haunt all of my what-ifs\nThe smell of smoke would hang around this long\n'Cause I knew everything when I was young\nI knew I'd curse you for the longest time\nChasin' shadows in the grocery line\nI knew you'd miss me once the thrill expired\nAnd you'd be standin' in my front porch light\nAnd I knew you'd come back to me\nYou'd come back to me\nAnd you'd come back to me\nAnd you'd come back\nAnd when I felt like I was an old cardigan\nUnder someone's bed\nYou put me on and said I was your favorite"
-},
-{
-  "id": 12,
-  "title": "Dilerim Ki",
-  "artist": "Dolu Kadehi Ters Tut",
-  "cover": "https://cdn-images.dzcdn.net/images/cover/a6ff47e4a6f55f0838a7210468c9839f/1900x1900-000000-80-0-0.jpg",
-  "src": "https://res.cloudinary.com/dsagrq2dg/video/upload/v1753039817/dilerimki_fjpam3.mp3",
-  "duration": "3:59",
-  "genre": "Alternatif Rock",
-  "lyrics": "Umudumsun\nSimsiyahken her yanım\nHuzurumsun\nUçurumsun\nAtlasam karanlığına\nAdım unutulsun\nEvim ol\nKurtar beni\nSonum ol\nDilerim ki\nDilerim ki asla caymazsın benim olmaktan\nDursun zaman\nKalsın yerim derinlerinde saklanan\nSönemezsin\nİçimi yakan delip geçen\nAteş sensin\nOnlar ne bilsin?\nSana çıksa keşke her yolum\nHayalimsin\nEvim ol\nKurtar beni\nSonum ol\nDilerim ki\nDilerim ki asla caymazsın benim olmaktan\nDursun zaman\nKalsın yerim derinlerinde saklanan\nKaybolan bir ruh gibi\nKayıp gidersem de bul beni\nMahvolur da bitersem\nTut elimi\nDilerim ki\nDilerim ki asla caymazsın benim olmaktan\nDursun zaman\nKalsın yerim derinlerinde saklanan\nDilerim ki\nDilerim ki asla caymazsın benim olmaktan\nDursun zaman\nKalsın yerim derinlerinde saklanan"
-},
-{
-  "id": 13,
-  "title": "Sirens",
-  "artist": "Fleurie",
-  "cover": "https://i1.sndcdn.com/artworks-000183766430-bvi79w-t500x500.jpg",
-  "src": "https://res.cloudinary.com/dsagrq2dg/video/upload/v1753039866/sirens_notg1t.mp3",
-  "duration": "3:59",
-  "genre": "Indie Pop,Dream Pop",
-  "lyrics": "Out in the darkness, I saw an angel\nHeld back the flood until the sky fell\nI see the future covered in roses\nWaves of gold as the door closes\nI can hear the sirens\nI can hear the sirens\nI can hear the sirens\nI can hear the sirens\nAfter the fire drove out the sparrows\nAll of the clouds hang like gallows\nHey are you listening? I cannot reach you\nI'm on the other side, trying to break through\nI can hear the sirens\nI can hear the sirens\nI can hear the sirens\nI can hear the sirens\nI can hear the sirens\nI can hear the sirens\nI can hear the sirens\nSirens, I can hear the sirens\nI can hear the sirens\nI can hear the sirens, sirens, sirens\nI can hear the sirens\nI can hear the sirens\nI can hear the sirens\nI can hear the sirens\nSirens, I can hear the sirens\nI can hear the sirens\nI can hear the sirens, sirens, sirens\nI can hear the sirens\nI can hear the sirens"
-},
-{
-  "id": 14,
-  "title": "Gittiğinde",
-  "artist": "Göksel",
-  "cover": "https://cdn-images.dzcdn.net/images/cover/e4def8478f62c08675892b42aaa58dbf/500x500.jpg",
-  "src": "https://res.cloudinary.com/dsagrq2dg/video/upload/v1753040002/goksel-gittiginde_zzwkat.mp3",
-  "duration": "3:52",
-  "genre": "Pop / Türk Pop",
-  "lyrics": "Bu yol, çıkmaz bu yol\nGönül vazgeçmiyor\n\"Dur\" diyor, içimde bir ses\nPeşinde diğer yarım\nSusmasan olmaz mı?\nAnlatsan bir kere\nÖnümde kilitli kapılar\nAnahtarları sende\nGitmesen olmaz mı?\nEn azından bir gece\nİçimde bir kara orman\nYanıyor gittiğinde\nAh-ah, ah-ah-ah-ah\nAh-ah, ah-ah-ah-ah\nAh-ah, ah-ah-ah-ah, gittiğinde\nAh-ah, ah-ah-ah-ah\nAh-ah, ah-ah-ah-ah\nAh-ah, ah-ah-ah-ah, gittiğinde\nBulanık sularında\nTakıldım ağlarına\n\"Yüz\" diyor, içimde bir ses\nYetmiyor kulaçlarım\nSusmasan olmaz mı?\nAnlatsan bir kere\nÖnümde kilitli kapılar\nAnahtarları sende\nGitmesen olmaz mı?\nEn azından bir gece\nİçimde bir kara orman\nYanıyor gittiğinde\nAh-ah, ah-ah-ah-ah\nAh-ah, ah-ah-ah-ah\nAh-ah, ah-ah-ah-ah, gittiğinde\nAh-ah, ah-ah-ah-ah\nAh-ah, ah-ah-ah-ah\nAh-ah, ah-ah-ah-ah, gittiğinde\nSusmasan olmaz mı?\nAnlatsan bir kere\nÖnümde kilitli kapılar\nAnahtarları sende\nGitmesen olmaz mı?\nEn azından bir gece\nİçimde bir kara orman\nYanıyor gittiğinde"
-},
-{
-  "id": 15,
-  "title": "Flying",
-  "artist": "Anathema",
-  "cover": "https://cdn-images.dzcdn.net/images/cover/e4def8478f62c08675892b42aaa58dbf/500x500.jpg",
-  "src": "https://res.cloudinary.com/dsagrq2dg/video/upload/v1753040117/anathema-flying_kwtsdi.mp3",
-  "duration": "5:56",
-  "genre": "Alternative Rock",
-  "lyrics": ""
-},
-{
-  "id": 16,
-  "title": "FANTASIES",
-  "artist": "Llynks",
-  "cover": "https://cdn-images.dzcdn.net/images/cover/19debd7aa4aa3ec31cd858a077ceba65/1900x1900-000000-80-0-0.jpg",
-  "src": "https://res.cloudinary.com/dsagrq2dg/video/upload/v1753040208/llynks-fantasies_mxgvg3.mp3",
-  "duration": "3:45",
-  "genre": "Indie Pop / Synth Pop - Llynks",
-  "lyrics": ""
-},
-{
-  "id": 17,
-  "title": "Chicago",
-  "artist": "Michael Jackson",
-  "cover": "https://upload.wikimedia.org/wikipedia/en/3/36/%22Chicago%22_promotional_cover.jpg",
-  "src": "https://res.cloudinary.com/dsagrq2dg/video/upload/v1753040262/michealjackson-chicago_h8nw8c.mp3",
-  "duration": "4:10",
-  "genre": "Pop",
-  "lyrics": "Ah, I met her on my way to Chicago\nWhere she was all alone\nAnd so was I, so I asked her for her name\nShe smiled and looked at me\nI was surprised to see\nThat a woman like that was really into me\n\n[Chorus]\nShe said she didn't have no man\nRaised the kids the very best she can (She was lovin' me)\nShe told me she was all alone\nSaid at home, she didn't have no phone (She was wantin' me)\nShe said just to give her a page\nFifty-nine was the code she gave (She was lovin' me)\nShe'd lied to you, lied to me\n'Cause she was lovin' me, lovin' me, yeah\n\n[Verse 2]\nI never woulda thought she was livin' like that\nHer words seemed so sincere\nWhen I held her near, she would tell me how she feels\nIt felt so real to me, this girl, she had to be\nAn angel sent from Heaven just for me\n\n[Chorus]\nShe said she didn’t have no man (Ah, ah)\nRaised the kids the very best she can (Look, she's lovin' me)\nShe told me she was all alone\nSaid at home, she didn't have no phone (She was lovin' me)\nShe said just to give her a page\nFifty-nine was the code she gave\nShe'd lied to you, lied to me\n'Cause she was lovin' me, lovin' me, yeah (Look who's lovin' me)\nShe tried to live a double life\nLovin' me while she was still your wife (She was wantin' me)\nShe thought that lovin' me was cool\nWith you at work and the kids at school (She was lovin' me)\nShe said like it would never end\nTried to keep me any way she can (She was wantin' me)\nShe'd lied to you, lied to me\n'Cause she got a family, family, yeah\n\n[Post-Chorus]\nWoah-oh-oh, no\nAlright\nOh, I'm in love, love\n\n[Verse 3]\nI didn't know she was already spoken for\n'Cause I'm not that kind of man\nSwear that I would've never looked her way\nNow I feel so much shame\nAnd all things have to change\nYou should know that I'm holdin' her to blame\n\n[Chorus]\nShe said she didn’t have no man\nRaised the kids the very best she can (Holdin' her to blame)\nShe told me she was all alone\nSaid at home, she didn't have no phone (Holdin' her to blame)\nShe said just to give her a page\nFifty-nine was the code she gave (Holdin' her to blame)\nShe'd lied to you, lied to me\n'Cause she was lovin' me, lovin' me, yeah (Holdin' her to blame)\nShe tried to live a double life\nLoving me while she was still your wife (Holdin' her to blame)\nShe thought that loving me was cool\nWith you at work and the kids at school (Holdin' her to blame)\nShe said like it would never end\nTried to keep me any way she can (Holdin' her to blame)\nShe'd lied to you, lied to me\n'Cause she got a family, family, yeah\n\n[Outro]\nShe said she didn’t have no man (Ah, ah)\nRaised the kids the very best she can (Look, she's lovin' me)\nShe told me she was all alone\nSaid at home, she didn't have no phone (She was lovin' me)\nShe said just to give her a page\nFifty-nine was the code she gave (She's with me)\nShe'd lied to you, lied to me\n'Cause she was lovin' me, lovin' me, yeah (Look who's lovin' me)\nShe tried to live a double life\nLovin' me while she was still your wife (She was wantin' me)\nShe thought that lovin' me was cool\nWith you at work and the kids at school (She was lovin' me)\nShe said like it would never end\nTried to keep me any way she can (She was wantin' me)\nShe'd lied to you, lied to me\n'Cause she got a family, family, yeah"
-},
-{
-  "id": 18,
-  "title": "Beautiful Crime",
-  "artist": "Tamer",
-  "cover": "https://cdn-images.dzcdn.net/images/cover/11d1a53197e54bc432ca78915bc98423/1900x1900-000000-80-0-0.jpg",
-  "src": "https://res.cloudinary.com/dsagrq2dg/video/upload/v1753040303/tamer-beautifulcrime_xvfmjg.mp3",
-  "duration": "3:30",
-  "genre": "Alternative",
-  "lyrics": "Each step I left behind\nEach road you know is mine\nWalking on a line ten stories high\nSay you'll still be by my side\nIf I could take your hand, oh\nIf you could understand\nThat I can barely breathe, the air is thin\nI fear the fall and where we'll land\nWe fight every night for something\nWhen the sun sets, we're both the same\nHalf in the shadows\nHalf burned in flames\nWe can't look back for nothin'\nTake what you need, say your goodbyes\nI gave you everything\nAnd it's a beautiful crime\nEach breath I left behind\nEach breath you take is mine\nWalking on a line ten stories high\nFear a fall, you're asking why\nLeaving the things we lost, oh\nLeaving the ones we've crossed\nI have to make an end so we begin\nTo save my soul at any cost\nWe fight every night for something\nWhen the sun sets, we're both the same\nHalf in the shadows\nHalf burned in flames\nWe can't look back for nothin'\nTake what you need, say your goodbyes\nI gave you everything\nThis darkness is the light\nThis darkness is the light\nWe fight every night for something\nWhen the sun sets, we're both the same\nHalf in the shadows\nHalf burned in flames\nWe can't look back for nothin'\nTake what you need, say your goodbyes\nAnd it's a beautiful crime"
-}
-
-
-
-
-
-
-
-
-
+    {
+      "id": 1,
+      "title": "Pardon Me (Lil Yachty feat. Future)",
+      "artist": "Lil Yachty, Future, Mike WiLL",
+      "cover": "https://i1.sndcdn.com/artworks-zJyo0NiIpJLq-0-t500x500.jpg",
+      "src": "https://res.cloudinary.com/dsagrq2dg/video/upload/v1752784998/Lil_Yachty_-_Pardon_Me_ft._Future_Mike_WiLL_Made-It_ffyq3n.mp3",
+      "duration": "2:58",
+      "genre": "Hip-Hop,Rap",
+      "lyrics": "Pardon me, I been actin' lil' poor\nPardon me, I been still actin' poor\nPardon me, I been actin' lil' poor\nPardon me, I been still actin' poor (EarDrummers)\nPardon me, I been still actin' poor\nPardon me, mix the Act' in the store (Marzeratti)\nPardon me, I been still actin' poor\nPardon me, sippin' lean at the store (Mike WiLL, Mike WiLL)\nPardon me, I been still actin' poor\nPardon me, sippin' stain at the store\nCarbon sittin' on the seat and the floor\nCarbon sittin' on the seat and the floor\nBarkin', I put that knife on your throat\nTorch it, I'ma set fire to that ho\nWalk in designer, head down to the toe\nName the strip club, I throw it\n\n[Post-Chorus: Future]\nHittin' that throat, she a GOAT\nSmashin' that throat, she a GOAT\nFeelin' like an igloo now\nGoons ready to hit you now\n\n[Verse 1: Lil Yachty]\n(Boat)\nBring the big F out the house\nLet them fuck niggas know who really get foul\nFour hundred thousand right now (Right now)\nFour hundred thousand on me right now (Yeah)\nPull up on the scene, tryna hit it right now\nI wrap the Bentley in snow (Yeah)\nPull up at the house, she waitin' outside, the lil' bitch is ready to go\nGot a SIG Sauer, it's brown like boot\nIt's still my brother, that nigga the truth, nigga the truth\nTwenty-five thousand for eight of my teeth\nThree thousand dollars for each every tooth\nIn too close, pull back the top, shoot out the roof (Brrt), go poof\nI'ma start puttin' these bitches on MARTA\nI'ma stop puttin' broke hoes on charters\nBrother too muddy, he been through too much\nIf he stand in the tub, he might black out the water\nI was twenty years old with six different whips\nPerfect good health, but bought ten different scripts (Woo)\nDog, it's cheaper to boot her out\nWhen niggas be flexin', nah, this ain't the same\n"
+    },
+    {
+      "id": 2,
+      "title": "Solo",
+      "artist": "Future",
+      "cover": "https://upload.wikimedia.org/wikipedia/en/8/83/HNDRXX_cover.jpg",
+      "src": "https://res.cloudinary.com/dsagrq2dg/video/upload/v1752785423/Future_-_Solo_Official_Audio_dqrmme.mp3",
+      "duration": "4:25",
+      "genre": "Hip-Hop,Rap",
+      "lyrics": "Talk to me\n\n[Refrain]\nI don't wanna let you down, I don't wanna let you down\nI don't wanna let you down, I don't wanna let you down\n\n[Interlude]\nYou see how we living, yeah\nI'm tryna keep it simple as possible\nYou know what I do\nHa-ha\n\n[Verse 1]\nGet you Gucci on sight, yeah, Rollies on ice, yeah\nGet first class flights, yeah, ride it like a bike, yeah\nGet a brand new Wag, ayy, be quiet, don't brag, hey\nYou ain't never pump gas, hey, nigga, keep it on task, yeah\nPeelin' off, flex, hey, keep it on track, hey\nFussin' and fightin', yeah, fuckin' all night, ayy\nGotta make it count, yeah, love it when it bounce, yeah\nGirl, that's tight, yeah, you do whatever you like, yeah\nGucci on sight, yeah, Rollie on ice, yeah\nTake my advice, ayy, live a better life\n\n[Chorus]\nYou got maids right now, you got it made right now\nI won't let you down, I won't let you down\nLike 4 right now, it's like 4 right now\nLike 4 right now, it's like 4 AM right now\nWe can't be too discrete, niggas gon' know right now\nGot my name too big, everybody know right now\nI enjoyed our time, we been on the low for a while\nI been solo now, I've been going solo now\nSee upcoming rap shows\nGet tickets for your favorite artists\n\n[Verse 2]\nTwenty ounce steaks, hey, can't fit it on the plate\nJumbo shrimp, hey, straight out of the lake, hey\nSleeping on the boat, ayy, wake up, take dope, ayy\nYou don't want no smoke, nigga don't want no starch, ayy\nWe gon' put it on the hood, ayy, before we put it on God, hey\nAyy\n\n[Chorus]\nYou got maids right now, you got it made right now\nI won't let you down, I won't let you down\nLike 4 right now, it's like 4 right now\nLike 4 right now, it's like 4 AM right now\nWe can't be too discrete, niggas gon' know right now\nGot my name too big, everybody know right now\nI enjoyed our time, we been on the low for a while\nI been solo now, I've been going solo now\n\n[Bridge]\nSolo now\nE-everybody know right now\nI've been going solo now\nBands on your tags, woo, ain't got bags, woo\nI won't let you down, bet I won't let you down\nBands on your tags, woo, ain't got bags, woo\nI won't let you down, bet I won't let you down\n\n[Refrain]\nI don't wanna let you down, I don't wanna let you down\nI don't wanna let you down, I don't wanna let you down\nI don't wanna let you down, I don't wanna let you down\nI don't wanna let you down, I don't wanna let you down, no way\nI don't wanna let you down, I don't wanna let you down\nI don't wanna let you down, I don't wanna let you down"
+    },
+    {
+      "id": 3,
+      "title": "Is it a crime",
+      "artist": "Sade",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/336e00b554c028d58b7c432c38581997/1900x1900-000000-80-0-0.jpg",
+      "src": "https://res.cloudinary.com/dsagrq2dg/video/upload/v1752785814/SADE_-_IS_IT_A_CRIME_LYRICS_nirefk.mp3",
+      "duration": "6:17",
+      "genre": "Soul",
+      "lyrics": "This may come\nThis may come as some surprise\nBut I miss you\nI could see through all of your lies\nBut still I miss you\nHe takes her love, but it doesn't feel like mine\nHe tastes her kiss, her kisses are not wine, they're not mine\nHe takes, but surely she can't give what I'm feeling now\nShe takes, but surely she doesn't know how\nIs it a crime?\nIs it a crime\nThat I still want you?\nAnd I want you to want me too\nMy love is wider, wider than Victoria Lake\nMy love is taller, taller than the Empire State\nIt dives, it jumps, and it ripples like the deepest ocean\nI can't give you more than that\nSurely, you want me back\nIs it a crime?\nIs it a crime\nI still want you?\nAnd I want you to want me too\nMy love is wider than Victoria Lake\nTaller than the Empire State\nIt dives, it jumps\nI can't give you more than that\nSurely, you want me back\nIs it a crime?\nIs it a crime\nThat I still want you?\nAnd I want you to want me too\nIt dives, it jumps, and it ripples like the deepest ocean\nI can't give you more than that\nSurely, you want it back\nTell me, is it a crime?"
+    },
+    {
+      "id": 4,
+      "title": "Bir Beyaz Orkide",
+      "artist": "Cihan Mürtezaoğlu",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/705e4cfa5f5300ecb45ff1f5a6a91752/1900x1900-000000-80-0-0.jpg",
+      "src": "https://res.cloudinary.com/dsagrq2dg/video/upload/v1752786118/Cihan_M%C3%BCrtezao%C4%9Flu_-_Bir_Beyaz_Orkide_Lyrics_qk39ls.mp3",
+      "duration": "4:01",
+      "genre": "Soul",
+      "lyrics": "Güldürmeyen, ağlatmayan\nSinsi bir ok\nÖldürmeyen\nÇaresi yok\nBu yaranın\nKimde kalır\nKabukları\nGüldürmeyen, ağlatmayan\nSinsi bir ok\nÖldürmeyen\nÇaresi yok\nBu yaranın\nKimde kalır\nKabukları\nAldın beni nefesimi\nYersiz mülksüz sahip gibi\nAsli sende\nSüreti yok\nYamacına indir beni\nŞimdi gövdemde büyüyen\nBu arsız, kimsesiz, topraksız çicek\nYüreğimde kor sürgün göğsüne\nBunu bana yapmazdın\nŞimdi gövdemde büyüyen\nBu arsız, kimsesiz, topraksız çicek\nYüreğimde kor sürgün göğsüne\nBunu bana yapmazdın"
+    },
+    {
+      "id": 5,
+      "title": "Sadece",
+      "artist": "Kalben",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/99ca15ad2dad2a8e8a5333813a3bc358/500x500.jpg",
+      "src": "https://res.cloudinary.com/dsagrq2dg/video/upload/v1752786569/Kalben_-_Sadece_ca72zf.mp3",
+      "duration": "2:55",
+      "genre": "Soul",
+      "lyrics": "Yatak boş, oda boş, ev boş\nDuvarlara vuran ışık, yüzümde karanlık\nYine mi sen? bayram günü gibi gelen\nKaçamadım külleri hala sıcak\nKalbimi durdurup kaybolan bir tuzak\nOluyor, her sokak\nHiçbir şey istemedim\nNe yatak, ne oda, ne de ev\nSen de bırak her şey, sadece beni sev\nDizlerimde dizlerin, boynunda ellerim\nBoğulur gibi yeniden her gece her gece\nDoğalım mı sevgilim?\nDoğalım mı sevgilim?\nDoğalım mı sevgilim?\nAzalırken, azalırken kapılar ardında\nKaçtığım zamanlar, boşvermiştim aslında\nYıkılırken kumdan kalelerim, birer birer karşında\nZırhı paslanmış bir kahraman gibiyim\nHiç bir şey istemedim\nNe yatak, ne oda, ne de ev\nSen de bırak her şeyi, sadece beni sev (sev)\nDizlerimde dizlerin, boynunda ellerim\nBoğulur gibi yeniden her gece her gece\nDoğalım mı sevgilim?\nDoğalım mı sevgilim?\nDoğalım mı sevgilim?\nHiçbir şey istemedim\nNe yatak, ne oda, ne de ev\nSen de bırak her şeyi, sadece beni sev"
+    },
+    {
+      "id": 6,
+      "title": "You know I'm No Good",
+      "artist": "Amy Winehouse",
+      "cover": "https://upload.wikimedia.org/wikipedia/en/b/b8/Amy_Winehouse_-_Back_To_Black.jpg",
+      "src": "https://res.cloudinary.com/dsagrq2dg/video/upload/v1752786780/Amy_Winehouse_-_You_Know_I_m_No_Good_Audio_t4cdeg.mp3",
+      "duration": "4:17",
+      "genre": "Soul",
+      "lyrics": ""
+    },
+    {
+      "id": 7,
+      "title": "Requiem",
+      "artist": "Mozart",
+      "cover": "https://store.deutschegrammophon.com/cdn/shop/files/Karl-Boehm-Wiener-Philharmoniker_Mozart-Requiem_Original-Source-2-Vinyl_s511818_o5777411_a499654_v12440118.3aa6d499.jpg?v=1751056765&width=3000",
+      "src": "https://res.cloudinary.com/dsagrq2dg/video/upload/v1752787129/Mozart_-_Requiem_hjuy7y.mp3",
+      "duration": "8:53",
+      "genre": "Classic",
+      "lyrics": ""
+    },
+    {
+      "id": 8,
+      "title": "This Charming Man",
+      "artist": "The Smiths",
+      "cover": "https://i.discogs.com/rA3VNNzY7xV5_0WfPfDY86oLjLm0mWhwRxaQ3g-ifBE/rs:fit/g:sm/q:40/h:300/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQzMzIz/MTQtMTQ5Njg1ODU1/Ny02Nzc1LnBuZw.jpeg",
+      "src": "https://res.cloudinary.com/dsagrq2dg/video/upload/v1752787617/This_Charming_Man_2008_Remaster_oihedq.mp3",
+      "duration": "2:42",
+      "genre": "Indie Rock",
+      "lyrics": "[Verse 1]\nPunctured bicycle on a hillside desolate\nWill nature make a man of me yet?\nWhen in this charming car\nThis charming man\nWhy pamper life's complexity\nWhen the leather runs smooth on the passenger seat?\nI would go out tonight\nBut I haven't got a stitch to wear\nThis man said, \"It's gruesome\nThat someone so handsome should care\"\n\n[Chorus]\nAh, a jumped-up pantry boy\nWho never knew his place\nHe said, \"Return the ring\"\nHe knows so much about these things\nHe knows so much about these things\n\n[Verse 2]\nI would go out tonight\nBut I haven't got a stitch to wear\nThis man said, \"It's gruesome\nThat someone so handsome should care\"\nNa, na-na, na-na, na-na\nThis charming man\nNa, na-na, na-na, na-na\nThis charming man\n\n[Chorus]\nAh, a jumped-up pantry boy\nWho never knew his place\nHe said, \"Return the ring\"\nHe knows so much about these things\nHe knows so much about these things\nHe knows so much about these things"
+    },
+    {
+      "id": 9,
+      "title": "Around Me (feat. Don Toliver)",
+      "artist": "Metro Boomin, Don Toliver",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/862ab860ff69c30deeb5979db6e46b62/1900x1900-000000-80-0-0.jpg",
+      "src": "https://res.cloudinary.com/dsagrq2dg/video/upload/v1752787918/Metro_Boomin_-_Around_Me_Lyrics_Ft._Don_Toliver_x7q2pm.mp3",
+      "duration": "3:11",
+      "genre": "Trap,R&B",
+      "lyrics": "Metro\nLike I know you want\nShe sit in here for hours\nEven till I'm done\nIt was all cool when it was just for fun\nToo much here on ya mental\nGotta switch up the tempo\nDaddy calling in tenfo\nShow us here what that Benz for\nI'm locked in on yo Info\nI'm bout to jump out the window\nI seen too many worlds and I\nWant you to be my girl and I\nKnow I gotta keep the drugs round me\nI Gotta keep a couple plugs around me\nI seen way too many worlds and uh\nAhhh want you to be my girl and ahhhh\nKnow I keep a couple drugs round me\nI gotta keep a couple plugs around me\n\nHow ya wanna talk when the money come in\nNiggas went bad, they going out sad, they never gonna win\nI been going like 10 for 10\nGet it on movie\nGet it on film\nGet on movie\nGet on film\nPour my cup way above the brim\nI went and got the cut with the all white trim\nI'm finna go and dunk way above the rim\nGutta nights it was hard to flip\nNiggas was lit when the hard uh hit\nI ain't think twice whenever I'd get it\nI was going shiest in the all black fitted\nI was going shiesty in all black\nI was on 10 when ya called back\nHad to think twice and ya fall back\nI hit uh mean lick and it was all racks\n\nI seen too many worlds and I\nWant you to be my girl and I\nKnow I gotta keep the drugs round me\nI gotta keep a couple plugs around me\nI seen way too many worlds and uh\nAhhh want you to be my girl and ahhhh\nKnow I keep a couple drugs round me\nI gotta keep a couple plugs around me\n\nHeroes are inspired\nEmerging only when needed\nRevealing themselves to the world in a moment\nMarked by the realization of their ultimate destiny\nWith backs against the wall\nThey ascend the winding path of their own fate\nBarely knowing the ledge\nDespite coping with living their whole life as two hands"
+    },
+    {
+      "id": 10,
+      "title": "Sənə də Qalmaz",
+      "artist": "Rəşid Behbudov",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/442f559dfbd9f12e492688b474ed68ab/1900x1900-000000-80-0-0.jpg",
+      "src": "https://res.cloudinary.com/dsagrq2dg/video/upload/v1752788317/Sene_de_qalmaz_-_Rashid_Behbudov_z6io1b.mp3",
+      "duration": "4:47",
+      "genre": "Retro Azərbaycan",
+      "lyrics": "Könlüm sənin əsirin, \nQəlbim sənindir, yar, \nQəlbim sənindir. \nİnsaf elə, xoş sözlə \nMəni gəl dindir, yar, \nMəni gəl dindir.\n\nSöylə, nədir bu ədalar, \nBu işvə, bu naz? \nGedər bir gün bu gözəllik, \nSənə də qalmaz.\n\nYalqızam, yalqız, \nYalqızam, yalqız! \nGəl, məni möhnətə, oda \nSalan vəfasız.\n\nSöylə, nədir bu ədalar, \nBu işvə, bu naz? \nVallah, ay qız, bu gözəllik \nSənə də qalmaz.\n\nDağlar başı dumandır, \nAman, Allah, yar, \nYenə dumandır. \nAyrılığın ölümdən \nMənə yamandır, yar, \nMənə yamandır.\n\nSöylə, nədir bu ədalar, \nBu işvə, bu naz? \nVallah, ay qız, bu gözəllik \nSənə də qalmaz."
+    },
+    {
+      "id": 11,
+      "title": "cardigan",
+      "artist": "Taylor Swift",
+      "cover": "https://i.discogs.com/u9wVKXG26ZZ55Gc2hnUBDxaL8cpo2OohiFLR99mYdRA/rs:fit/g:sm/q:40/h:300/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NTMz/MjAxLTE2MDgzMjY2/MjMtNjA0My5qcGVn.jpeg",
+      "src": "https://res.cloudinary.com/dsagrq2dg/video/upload/v1752789033/Taylor_Swift_-_cardigan_obh9kr.mp3",
+      "duration": "3:59",
+      "genre": "Indie Folk, Alternative",
+      "lyrics": "Vintage tee, brand new phone\nHigh heels on cobblestones\nWhen you are young, they assume you know nothing\nSequin smile, black lipstick\nSensual politics\nWhen you are young, they assume you know nothing\nBut I knew you\nDancin' in your Levi's\nDrunk under a streetlight\nI knew you\nHand under my sweatshirt\nBaby, kiss it better\nAnd when I felt like I was an old cardigan\nUnder someone's bed\nYou put me on and said I was your favorite\nA friend to all is a friend to none\nChase two girls, lose the one\nWhen you are young, they assume you know nothing\nBut I knew you\nPlayin' hide-and-seek and\nGivin' me your weekends\nI knew you\nYour heartbeat on the High Line\nOnce in twenty lifetimes\nAnd when I felt like I was an old cardigan\nUnder someone's bed\nYou put me on and said I was your favorite\nTo kiss in cars and downtown bars\nWas all we needed\nYou drew stars around my scars\nBut now I'm bleedin'\n'Cause I knew you\nSteppin' on the last train\nMarked me like a bloodstain\nI knew you\nTried to change the ending\nPeter losing Wendy\nI knew you\nLeavin' like a father\nRunning like water\nAnd when you are young, they assume you know nothing\nBut I knew you'd linger like a tattoo kiss\nI knew you'd haunt all of my what-ifs\nThe smell of smoke would hang around this long\n'Cause I knew everything when I was young\nI knew I'd curse you for the longest time\nChasin' shadows in the grocery line\nI knew you'd miss me once the thrill expired\nAnd you'd be standin' in my front porch light\nAnd I knew you'd come back to me\nYou'd come back to me\nAnd you'd come back to me\nAnd you'd come back\nAnd when I felt like I was an old cardigan\nUnder someone's bed\nYou put me on and said I was your favorite"
+    },
+    {
+      "id": 12,
+      "title": "Dilerim Ki",
+      "artist": "Dolu Kadehi Ters Tut",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/a6ff47e4a6f55f0838a7210468c9839f/1900x1900-000000-80-0-0.jpg",
+      "src": "https://res.cloudinary.com/dsagrq2dg/video/upload/v1753039817/dilerimki_fjpam3.mp3",
+      "duration": "3:59",
+      "genre": "Alternatif Rock",
+      "lyrics": "Umudumsun\nSimsiyahken her yanım\nHuzurumsun\nUçurumsun\nAtlasam karanlığına\nAdım unutulsun\nEvim ol\nKurtar beni\nSonum ol\nDilerim ki\nDilerim ki asla caymazsın benim olmaktan\nDursun zaman\nKalsın yerim derinlerinde saklanan\nSönemezsin\nİçimi yakan delip geçen\nAteş sensin\nOnlar ne bilsin?\nSana çıksa keşke her yolum\nHayalimsin\nEvim ol\nKurtar beni\nSonum ol\nDilerim ki\nDilerim ki asla caymazsın benim olmaktan\nDursun zaman\nKalsın yerim derinlerinde saklanan\nKaybolan bir ruh gibi\nKayıp gidersem de bul beni\nMahvolur da bitersem\nTut elimi\nDilerim ki\nDilerim ki asla caymazsın benim olmaktan\nDursun zaman\nKalsın yerim derinlerinde saklanan\nDilerim ki\nDilerim ki asla caymazsın benim olmaktan\nDursun zaman\nKalsın yerim derinlerinde saklanan"
+    },
+    {
+      "id": 13,
+      "title": "Sirens",
+      "artist": "Fleurie",
+      "cover": "https://i1.sndcdn.com/artworks-000183766430-bvi79w-t500x500.jpg",
+      "src": "https://res.cloudinary.com/dsagrq2dg/video/upload/v1753039866/sirens_notg1t.mp3",
+      "duration": "3:59",
+      "genre": "Indie Pop,Dream Pop",
+      "lyrics": "Out in the darkness, I saw an angel\nHeld back the flood until the sky fell\nI see the future covered in roses\nWaves of gold as the door closes\nI can hear the sirens\nI can hear the sirens\nI can hear the sirens\nI can hear the sirens\nAfter the fire drove out the sparrows\nAll of the clouds hang like gallows\nHey are you listening? I cannot reach you\nI'm on the other side, trying to break through\nI can hear the sirens\nI can hear the sirens\nI can hear the sirens\nI can hear the sirens\nI can hear the sirens\nI can hear the sirens\nI can hear the sirens\nSirens, I can hear the sirens\nI can hear the sirens\nI can hear the sirens, sirens, sirens\nI can hear the sirens\nI can hear the sirens\nI can hear the sirens\nI can hear the sirens\nSirens, I can hear the sirens\nI can hear the sirens\nI can hear the sirens, sirens, sirens\nI can hear the sirens\nI can hear the sirens"
+    },
+    {
+      "id": 14,
+      "title": "Gittiğinde",
+      "artist": "Göksel",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/e4def8478f62c08675892b42aaa58dbf/500x500.jpg",
+      "src": "https://res.cloudinary.com/dsagrq2dg/video/upload/v1753040002/goksel-gittiginde_zzwkat.mp3",
+      "duration": "3:52",
+      "genre": "Pop / Türk Pop",
+      "lyrics": "Bu yol, çıkmaz bu yol\nGönül vazgeçmiyor\n\"Dur\" diyor, içimde bir ses\nPeşinde diğer yarım\nSusmasan olmaz mı?\nAnlatsan bir kere\nÖnümde kilitli kapılar\nAnahtarları sende\nGitmesen olmaz mı?\nEn azından bir gece\nİçimde bir kara orman\nYanıyor gittiğinde\nAh-ah, ah-ah-ah-ah\nAh-ah, ah-ah-ah-ah\nAh-ah, ah-ah-ah-ah, gittiğinde\nAh-ah, ah-ah-ah-ah\nAh-ah, ah-ah-ah-ah\nAh-ah, ah-ah-ah-ah, gittiğinde\nBulanık sularında\nTakıldım ağlarına\n\"Yüz\" diyor, içimde bir ses\nYetmiyor kulaçlarım\nSusmasan olmaz mı?\nAnlatsan bir kere\nÖnümde kilitli kapılar\nAnahtarları sende\nGitmesen olmaz mı?\nEn azından bir gece\nİçimde bir kara orman\nYanıyor gittiğinde\nAh-ah, ah-ah-ah-ah\nAh-ah, ah-ah-ah-ah\nAh-ah, ah-ah-ah-ah, gittiğinde\nAh-ah, ah-ah-ah-ah\nAh-ah, ah-ah-ah-ah\nAh-ah, ah-ah-ah-ah, gittiğinde\nSusmasan olmaz mı?\nAnlatsan bir kere\nÖnümde kilitli kapılar\nAnahtarları sende\nGitmesen olmaz mı?\nEn azından bir gece\nİçimde bir kara orman\nYanıyor gittiğinde"
+    },
+    {
+      "id": 15,
+      "title": "Flying",
+      "artist": "Anathema",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/47a8450f23d05d34142e64958e0ac983/500x500.jpg",
+      "src": "https://res.cloudinary.com/dsagrq2dg/video/upload/v1753040117/anathema-flying_kwtsdi.mp3",
+      "duration": "5:56",
+      "genre": "Alternative Rock",
+      "lyrics": ""
+    },
+    {
+      "id": 16,
+      "title": "FANTASIES",
+      "artist": "Llynks",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/19debd7aa4aa3ec31cd858a077ceba65/1900x1900-000000-80-0-0.jpg",
+      "src": "https://res.cloudinary.com/dsagrq2dg/video/upload/v1753040208/llynks-fantasies_mxgvg3.mp3",
+      "duration": "3:45",
+      "genre": "Indie Pop / Synth Pop - Llynks",
+      "lyrics": ""
+    },
+    {
+      "id": 17,
+      "title": "Chicago",
+      "artist": "Michael Jackson",
+      "cover": "https://upload.wikimedia.org/wikipedia/en/3/36/%22Chicago%22_promotional_cover.jpg",
+      "src": "https://res.cloudinary.com/dsagrq2dg/video/upload/v1753040262/michealjackson-chicago_h8nw8c.mp3",
+      "duration": "4:10",
+      "genre": "Pop",
+      "lyrics": "Ah, I met her on my way to Chicago\nWhere she was all alone\nAnd so was I, so I asked her for her name\nShe smiled and looked at me\nI was surprised to see\nThat a woman like that was really into me\n\n[Chorus]\nShe said she didn't have no man\nRaised the kids the very best she can (She was lovin' me)\nShe told me she was all alone\nSaid at home, she didn't have no phone (She was wantin' me)\nShe said just to give her a page\nFifty-nine was the code she gave (She was lovin' me)\nShe'd lied to you, lied to me\n'Cause she was lovin' me, lovin' me, yeah\n\n[Verse 2]\nI never woulda thought she was livin' like that\nHer words seemed so sincere\nWhen I held her near, she would tell me how she feels\nIt felt so real to me, this girl, she had to be\nAn angel sent from Heaven just for me\n\n[Chorus]\nShe said she didn’t have no man (Ah, ah)\nRaised the kids the very best she can (Look, she's lovin' me)\nShe told me she was all alone\nSaid at home, she didn't have no phone (She was lovin' me)\nShe said just to give her a page\nFifty-nine was the code she gave\nShe'd lied to you, lied to me\n'Cause she was lovin' me, lovin' me, yeah (Look who's lovin' me)\nShe tried to live a double life\nLovin' me while she was still your wife (She was wantin' me)\nShe thought that lovin' me was cool\nWith you at work and the kids at school (She was lovin' me)\nShe said like it would never end\nTried to keep me any way she can (She was wantin' me)\nShe'd lied to you, lied to me\n'Cause she got a family, family, yeah\n\n[Post-Chorus]\nWoah-oh-oh, no\nAlright\nOh, I'm in love, love\n\n[Verse 3]\nI didn't know she was already spoken for\n'Cause I'm not that kind of man\nSwear that I would've never looked her way\nNow I feel so much shame\nAnd all things have to change\nYou should know that I'm holdin' her to blame\n\n[Chorus]\nShe said she didn’t have no man\nRaised the kids the very best she can (Holdin' her to blame)\nShe told me she was all alone\nSaid at home, she didn't have no phone (Holdin' her to blame)\nShe said just to give her a page\nFifty-nine was the code she gave (Holdin' her to blame)\nShe'd lied to you, lied to me\n'Cause she was lovin' me, lovin' me, yeah (Holdin' her to blame)\nShe tried to live a double life\nLoving me while she was still your wife (Holdin' her to blame)\nShe thought that loving me was cool\nWith you at work and the kids at school (Holdin' her to blame)\nShe said like it would never end\nTried to keep me any way she can (Holdin' her to blame)\nShe'd lied to you, lied to me\n'Cause she got a family, family, yeah\n\n[Outro]\nShe said she didn’t have no man (Ah, ah)\nRaised the kids the very best she can (Look, she's lovin' me)\nShe told me she was all alone\nSaid at home, she didn't have no phone (She was lovin' me)\nShe said just to give her a page\nFifty-nine was the code she gave (She's with me)\nShe'd lied to you, lied to me\n'Cause she was lovin' me, lovin' me, yeah (Look who's lovin' me)\nShe tried to live a double life\nLovin' me while she was still your wife (She was wantin' me)\nShe thought that lovin' me was cool\nWith you at work and the kids at school (She was lovin' me)\nShe said like it would never end\nTried to keep me any way she can (She was wantin' me)\nShe'd lied to you, lied to me\n'Cause she got a family, family, yeah"
+    },
+    {
+      "id": 18,
+      "title": "Beautiful Crime",
+      "artist": "Tamer",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/11d1a53197e54bc432ca78915bc98423/1900x1900-000000-80-0-0.jpg",
+      "src": "https://res.cloudinary.com/dsagrq2dg/video/upload/v1753040303/tamer-beautifulcrime_xvfmjg.mp3",
+      "duration": "3:30",
+      "genre": "Alternative",
+      "lyrics": "Each step I left behind\nEach road you know is mine\nWalking on a line ten stories high\nSay you'll still be by my side\nIf I could take your hand, oh\nIf you could understand\nThat I can barely breathe, the air is thin\nI fear the fall and where we'll land\nWe fight every night for something\nWhen the sun sets, we're both the same\nHalf in the shadows\nHalf burned in flames\nWe can't look back for nothin'\nTake what you need, say your goodbyes\nI gave you everything\nAnd it's a beautiful crime\nEach breath I left behind\nEach breath you take is mine\nWalking on a line ten stories high\nFear a fall, you're asking why\nLeaving the things we lost, oh\nLeaving the ones we've crossed\nI have to make an end so we begin\nTo save my soul at any cost\nWe fight every night for something\nWhen the sun sets, we're both the same\nHalf in the shadows\nHalf burned in flames\nWe can't look back for nothin'\nTake what you need, say your goodbyes\nI gave you everything\nThis darkness is the light\nThis darkness is the light\nWe fight every night for something\nWhen the sun sets, we're both the same\nHalf in the shadows\nHalf burned in flames\nWe can't look back for nothin'\nTake what you need, say your goodbyes\nAnd it's a beautiful crime"
+    },
+    {
+      "id": 19,
+      "title": "Resmen Aşığım",
+      "artist": "Nil Karaibrahimgil",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/559e56e3417b58e47bcdff4dd87b19e7/500x500.jpg",
+      "src": "https://res.cloudinary.com/dsagrq2dg/video/upload/v1754407992/Nil_Karaibrahimgil_-_Resmen_Asigim_Album_Version_v3snvt.mp3",
+      "duration": "3:16",
+      "genre": "Turkish Pop",
+      "lyrics": "Sanki o putmuş gibi\nHayat sırf buymuş gibi\nHem aç, hem tokmuş gibi\nHem var, hem yokmuş gibi\nBen ona resmen aşığım\n\nOnu benden almasınlar\nBize bulaşmasınlar\nArayıp sormasınlar\nKıskandırıp durmasınlar\nBen ona resmen aşığım\n\nHem ilk, hem sonmuş gibi\nEn güzeli oymuş gibi\nBunca yıl beklemiş gibi\nBeklediğime değmiş gibi\nBen ona resmen\n\nŞeytanla bir olmuş gibi\nKüt diye gidecek gibi\nHer yöne sapacak\nNe yap desen yapacak gibi\nBen ona resmen aşığım\n\nOnu benden almasınlar\nBize bulaşmasınlar\nArayıp sormasınlar\nKıskandırıp durmasınlar\nBen ona resmen aşığım\n\nHem ilk, hem sonmuş gibi\nEn güzeli oymuş gibi\nBunca yıl beklemiş gibi\nBeklediğime değmiş gibi\nBen ona resmen\n\nOnu benden almasınlar\nBize bulaşmasınlar\nArayıp sormasınlar\nKıskandırıp durmasınlar\nBen ona resmen aşığım\n\nHem ilk, hem sonmuş gibi\nEn güzeli oymuş gibi\nBunca yıl beklemiş gibi\nBeklediğime değmiş gibi\nBen ona resmen aşığım\n\nİyi ki yapmışım\nİyi ki yapmışım\nİyi ki yapmışım\nİyi ki yapmışım"
+    }
   ],
-
-  "playlists": [
-    
+  "playlists": [],
+  "artists": [
+    {
+      "id": 1,
+      "name": "Lil Yachty",
+      "bio": "Lil Yachty is an American rapper, singer, and songwriter known for his unique style blending trap with melodic elements and his colorful personality. He gained fame with his debut mixtape 'Lil Boat' in 2016.",
+      "image": "https://i.scdn.co/image/ab6761610000e5eb86c7c38d4c8c461dba55035c"
+    },
+    {
+      "id": 2,
+      "name": "Future",
+      "bio": "Future is an American rapper, singer, and songwriter widely regarded as a pioneer of the modern trap sound. With a prolific career and influence in hip-hop, he's known for his introspective lyrics and heavy use of Auto-Tune.",
+      "image": "https://i.scdn.co/image/ab6775700000ee85086e67cdf7c7065077f0b972"
+    },
+    {
+      "id": 3,
+      "name": "Mike WiLL Made-It",
+      "bio": "Mike WiLL Made-It is an American record producer and songwriter best known for producing hits for artists like Future, Kendrick Lamar, and Miley Cyrus. He is also the founder of the EarDrummers label.",
+      "image": "https://i.scdn.co/image/ab677762000056b8ceae34c56737e479d2690c63"
+    },
+    {
+      "id": 4,
+      "name": "Sade",
+      "bio": "Sade is a British-Nigerian singer, songwriter, and actress known for her smooth jazz, soul, and R&B fusion. Her music is marked by emotive vocals and timeless elegance, with hits like 'Smooth Operator' and 'Is It a Crime'.",
+      "image": "https://thefader-res.cloudinary.com/images/w_1440,c_limit,f_auto,q_auto:eco/zwjr12iqzjejxmiixtpv/sade-lovers-rock-cover-story-interview.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Cihan Mürtezaoğlu",
+      "bio": "Cihan Mürtezaoğlu is a Turkish singer-songwriter and producer known for his poetic lyrics and unique fusion of alternative and Turkish folk elements. He is celebrated for his emotional depth and distinct vocal tone.",
+      "image": "https://i.scdn.co/image/ab6761610000e5ebf3801d400ef9aa5533d2e7e7"
+    },
+    {
+      "id": 6,
+      "name": "Kalben",
+      "bio": "Kalben is a Turkish indie pop and rock singer-songwriter known for her raw lyrics and powerful stage presence. She became popular with her self-titled debut album and is an influential voice among Turkey’s alternative scene.",
+      "image": "https://i.scdn.co/image/ab6761610000e5ebfdcff32864d7276df4b96dbf"
+    },
+    {
+      "id": 7,
+      "name": "Amy Winehouse",
+      "bio": "Amy Winehouse was a British singer and songwriter acclaimed for her deep, expressive contralto vocals and her eclectic mix of musical genres, including soul, jazz, and R&B. Her iconic album 'Back to Black' won numerous awards.",
+      "image": "https://i.scdn.co/image/ab6761610000e5eb2ceb023b10da17590878e88c"
+    },
+    {
+      "id": 8,
+      "name": "Mozart",
+      "bio": "Wolfgang Amadeus Mozart was a prolific and influential classical composer of the 18th century. A musical prodigy, he composed over 600 works, including symphonies, operas, chamber music, and choral pieces.",
+      "image": "https://i.scdn.co/image/ab6761610000e5eb7fa9108c6dadb8c3ec21da88"
+    },
+    {
+      "id": 9,
+      "name": "The Smiths",
+      "bio": "The Smiths were an English rock band formed in the 1980s, known for their jangly guitar sound and the introspective, often melancholic lyrics of lead singer Morrissey. They remain one of the most influential indie bands in UK history.",
+      "image": "https://i.scdn.co/image/4bf08a9e6eea088b20d4092d1322bbd3f39ff9af"
+    },
+    {
+      "id": 10,
+      "name": "Metro Boomin",
+      "bio": "Metro Boomin is an American record producer and DJ best known for his dark, melodic beats in the trap genre. He has worked with artists like Future, 21 Savage, and Travis Scott.",
+      "image": "https://i.scdn.co/image/ab6761610000e5ebdf9a1555f53a20087b8c5a5c"
+    },
+    {
+      "id": 11,
+      "name": "Don Toliver",
+      "bio": "Don Toliver is an American rapper and singer known for his smooth vocals and genre-blending sound. He rose to fame with his collaborations with Travis Scott and his breakout album 'Heaven or Hell'.",
+      "image": "https://i.scdn.co/image/ab6761610000e5eb62d52993e245cb161f89b01c"
+    },
+    {
+      "id": 12,
+      "name": "Rəşid Behbudov",
+      "bio": "Rəşid Behbudov was a legendary Azerbaijani singer and actor known for his powerful voice and contributions to Azerbaijani classical and folk music. He played a significant role in popularizing Azerbaijani music internationally.",
+      "image": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84b58907c4f57f6bccf68657d0"
+    },
+    {
+      "id": 13,
+      "name": "Taylor Swift",
+      "bio": "Taylor Swift is an American singer-songwriter renowned for her narrative songwriting and versatile musical evolution. From country beginnings to pop and indie folk, she has become one of the most influential artists of her generation.",
+      "image": "https://i.scdn.co/image/ab6761610000e5ebe672b5f553298dcdccb0e676"
+    },
+    {
+      "id": 14,
+      "name": "Dolu Kadehi Ters Tut",
+      "bio": "Dolu Kadehi Ters Tut is a Turkish alternative rock band known for their energetic sound and emotionally charged lyrics. Their music often blends rock, pop, and electronic elements.",
+      "image": "https://i.scdn.co/image/ab6761610000e5eb0ccb0dd69f722ea633cdfd10"
+    },
+    {
+      "id": 15,
+      "name": "Fleurie",
+      "bio": "Fleurie is an American singer-songwriter known for her cinematic, ethereal style blending dream pop, alternative, and electronic elements. Her music often features in film and TV soundtracks.",
+      "image": "https://i.scdn.co/image/ab676161000051746152931b74ba9e917468adb7"
+    },
+    {
+      "id": 16,
+      "name": "Göksel",
+      "bio": "Göksel is a Turkish pop and rock singer known for her soulful voice and heartfelt lyrics. She has been a prominent figure in Turkish music since the late 1990s.",
+      "image": "https://i.scdn.co/image/ab6761610000e5ebc290487c8a04d3d1a60de9ea"
+    },
+    {
+      "id": 17,
+      "name": "Anathema",
+      "bio": "Anathema was a British rock band that evolved from doom metal roots into atmospheric progressive rock. Known for emotional depth and ambient soundscapes, they gained a dedicated global fanbase.",
+      "image": "https://i.scdn.co/image/ab6761610000e5eb3b2f51bb865ea1d25c236789"
+    },
+    {
+      "id": 18,
+      "name": "Llynks",
+      "bio": "Llynks is an American singer and producer whose music blends dark synth-pop with introspective themes. Her ethereal sound and haunting vocals make her a unique presence in the indie electronic scene.",
+      "image": "https://i.scdn.co/image/ab6761610000e5eb18140a75c4b08239e7b96a3c"
+    },
+    {
+      "id": 19,
+      "name": "Michael Jackson",
+      "bio": "Michael Jackson, the 'King of Pop,' was an American singer, dancer, and entertainer known for his groundbreaking music videos, unmatched performance skills, and iconic albums like 'Thriller' and 'Bad'.",
+      "image": "https://i.scdn.co/image/ab6761610000e5eb997cc9a4aec335d46c9481fd"
+    }
   ]
 }
