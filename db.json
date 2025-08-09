@@ -308,5 +308,54 @@
       "bio": "Michael Jackson, the 'King of Pop,' was an American singer, dancer, and entertainer known for his groundbreaking music videos, unmatched performance skills, and iconic albums like 'Thriller' and 'Bad'.",
       "image": "https://i.scdn.co/image/ab6761610000e5eb997cc9a4aec335d46c9481fd"
     }
+  ],
+  "podcasts": [
+    {
+      "id": 1,
+      "title": "TED Talks Daily",
+      "description": "Want TED Talks on the go? Everyday, this feed brings you our latest talks in audio format. Hear thought-provoking ideas on every subject imaginable – from Artificial Intelligence to Zoology, and everything in between – given by the world's leading thinkers and doers. This collection of talks, given at TED and TEDx conferences around the globe, is also available in video format.",
+      "image": "https://i.scdn.co/image/ab6765630000ba8a1eef8dcabec3dca77ace07c8",
+      "author": "TED",
+      "category": "Technology,Educational,Design",
+      "rating": 4.6
+    },
+    {
+      "id": 2,
+      "title": "Huberman Lab",
+      "description": "The Huberman Lab podcast is hosted by Andrew Huberman, Ph.D., a neuroscientist and tenured professor in the department of neurobiology, and by courtesy, psychiatry and behavioral sciences at Stanford School of Medicine. The podcast discusses neuroscience and science-based tools, including how our brain and its connections with the organs of our body control our perceptions, our behaviors, and our health, as well as existing and emerging tools for measuring and changing how our nervous system works.Huberman has made numerous significant contributions to the fields of brain development, brain function, and neural plasticity, which is the ability of our nervous system to rewire and learn new behaviors, skills, and cognitive functioning. He is a McKnight Foundation and Pew Foundation Fellow and was awarded the Cogan Award, given to the scientist making the most significant discoveries in the study of vision, in 2017. Work from the Huberman Laboratory at Stanford School of Medicine has been published in top journals, including Nature, Science, and Cell, and has been featured in TIME, BBC, Scientific American, Discover, and other top media outlets.In 2021, Dr. Huberman launched the Huberman Lab podcast. The podcast is frequently ranked in the top 10 of all podcasts globally and is often ranked #1 in the categories of Science, Education, and Health & Fitness.",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/aa/f1/51/aaf151f6-8661-833a-c9d3-7c4ce22f8868/mza_253061105143942369.jpg/1200x1200bf-60.jpg",
+      "author": "Scicomm Media",
+      "category": "Health,Science",
+      "rating": 4.9
+    }
+  ],
+  "episodes": [
+    {
+      "id": 1,
+      "podcastId": 1,
+      "title": "How to preserve your private life in the age of scoial media | Bryce Dallas Howard",
+      "description": "Growing up in the public eye, multi-hyphenate creator Bryce Dallas Howard experienced the familiar pressure to share her life with the world on social media. But with her mother's steadfast guidance, Howard learned to set personal boundaries and savor the beauty of private moments. In this personal talk, she draws on three generations of family wisdom to remind us that a private life makes a public life worth living.",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6VehcSf55J6N6VEXxT-F8Ts_wg47o___pEw&s",
+      "releaseDate": "2025-08-10",
+      "duration": "14 min 31 sec"
+    },
+    {
+      "id": 2,
+      "podcastId": 1,
+      "title": "Is AI ruining music?",
+      "description": "What makes music “real” — is it the instruments, the voice, the creator’s intention or something else entirely? Dustin Ballard, the creative force behind the viral channel “There I Ruined It,” explores the weird, wonderful and sometimes unsettling ways AI is reshaping music. With fiddle solos and AI-powered mashups of your favorite songs, he invites us to ask: Are new tools fostering creativity, or just making noise? For a chance to give your own TED Talk, fill out the Idea Search",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6VehcSf55J6N6VEXxT-F8Ts_wg47o___pEw&s",
+      "releaseDate": "2025-08-10",
+      "duration": "16 min 35 sec"
+    },
+    {
+      "id": 3,
+      "podcastId": 2,
+      "title": "How to Control Your Cortiosol & Overcome Burnout",
+      "description": "In this episode, I explain cortisol and science-based protocols for properly setting your cortisol rhythm, which can significantly increase your daytime energy, focus, mood, and stress resilience, while also improving your sleep quality.Most people mistakenly think cortisol is bad, and many assume their levels are too high, when in fact many health and performance challenges simply stem from a disrupted cortisol rhythm. Getting your cortisol rhythm right can be transformative for your health and performance. I outline behavioral, nutritional, and supplement-based strategies to raise or lower your cortisol levels at the appropriate times of day and night. I also provide specific protocols for overcoming burnout. If you’re dealing with stress, low energy, hormone or sleep challenges—or simply want to optimize these for the sake of your physical and mental health and performance—this episode offers science-backed protocols to help.","image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6VehcSf55J6N6VEXxT-F8Ts_wg47o___pEw&s",
+      "releaseDate": "2025-08-10",
+      "duration": "2 hr 16 min",
+      "image":"https://pbs.twimg.com/media/F6BHL93WgAA2A8g.jpg"
+    }
   ]
 }
